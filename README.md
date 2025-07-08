@@ -1,6 +1,6 @@
 # 🔐 ServePass - Advanced FiveM Server Password Protection
 <div align="center">
-  <img src="assets/Lucid_Realism_Create_a_professional_banner_logo_for_ServePass__0.png" alt="ServePass Banner" width="100%" max-width="1200px">
+  <img src="assets/Lucid_Realism_Create_a_professional_banner_logo_for_ServePass__0.jpg" alt="ServePass Banner" width="100%" max-width="1200px">
 </div>
 <div align="center">
 
