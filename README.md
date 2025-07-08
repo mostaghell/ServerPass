@@ -1,10 +1,28 @@
 # 🔐 ServePass - Advanced FiveM Server Password Protection
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FiveM](https://img.shields.io/badge/FiveM-Compatible-blue.svg)](https://fivem.net/)
 [![Version](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/your-username/servepass/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-@MostaQeell-blue.svg)](https://t.me/MostaQeell)
+[![Website](https://img.shields.io/badge/Website-mostaghell.com-orange.svg)](https://mostaghell.com)
 
 A comprehensive FiveM resource that provides advanced server password protection with modern web UI, extensive logging, security features, and administrative tools.
+
+---
+
+### 🏆 Developed by **Mostaghell Team**
+
+*A leading independent label in the world of music and technology, operating as a comprehensive platform. This label specializes in music production, composition, and creating unique content and projects, expanding the boundaries of creativity and helping flourish innovative ideas in various fields.*
+
+**🌐 Official Links:**
+- 📱 **Telegram Channel**: [https://t.me/MostaQeell](https://t.me/MostaQeell)
+- 🌍 **Official Website**: [mostaghell.com](https://mostaghell.com)
+
+---
+
+</div>
 
 ## ✨ Features
 
@@ -347,7 +365,7 @@ servepass:status
 We welcome contributions to ServePass! Here's how you can help:
 
 ### Reporting Issues
-1. Check existing [issues](https://github.com/mostaghell/ServerPass/issues) first
+1. Check existing [issues](https://github.com/your-username/servepass/issues) first
 2. Create a detailed bug report with:
    - FiveM server version
    - ServePass version
@@ -356,7 +374,7 @@ We welcome contributions to ServePass! Here's how you can help:
    - Expected vs actual behavior
 
 ### Feature Requests
-1. Open an [issue](https://github.com/mostaghell/ServerPass/issues/new) with the "enhancement" label
+1. Open an [issue](https://github.com/your-username/servepass/issues/new) with the "enhancement" label
 2. Describe the feature and its use case
 3. Explain why it would benefit the community
 
@@ -399,11 +417,21 @@ cd servepass
 
 ## 🆘 Support
 
+<div align="center">
+
+### 🏢 **Official Mostaghell Team Support**
+
+[![Telegram Support](https://img.shields.io/badge/Telegram%20Support-@MostaQeell-blue?style=for-the-badge&logo=telegram)](https://t.me/MostaQeell)
+[![Website Support](https://img.shields.io/badge/Website%20Support-mostaghell.com-orange?style=for-the-badge&logo=web)](https://mostaghell.com)
+
+</div>
+
 ### Getting Help
 - 📖 **Documentation**: Read this README thoroughly
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mostaghell/ServerPass/issues)
-- 💬 **Community**: [Telegram](https://t.me/MostaQeell)
-- 📧 **Contact**: [info@mostaghell.com](mailto:your-email@example.com)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/your-username/servepass/issues)
+- 📱 **Telegram**: Join our official channel [@MostaQeell](https://t.me/MostaQeell)
+- 🌍 **Website**: Visit [mostaghell.com](https://mostaghell.com) for more projects
+- 💬 **Community**: [FiveM Forums](https://forum.cfx.re/)
 
 ### Frequently Asked Questions
 
@@ -418,6 +446,9 @@ A: Currently, ServePass supports one password. Multi-password support is planned
 
 **Q: Is this compatible with other authentication systems?**
 A: ServePass can be integrated with existing systems through custom validation functions.
+
+**Q: Do you provide custom development services?**
+A: Yes! Contact us through [Telegram](https://t.me/MostaQeell) or visit [mostaghell.com](https://mostaghell.com) for custom FiveM development services.
 
 ## 🏆 Credits
 
@@ -460,6 +491,24 @@ SOFTWARE.
 
 **⭐ If you find ServePass useful, please give it a star on GitHub! ⭐**
 
-[Report Bug](https://github.com/mostaghell/ServerPass/issues) • [Request Feature](https://github.com/mostaghell/ServerPass/issues) • [Contribute](https://github.com/mostaghell/ServerPass/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/servepass?style=social)](https://github.com/your-username/servepass/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/servepass?style=social)](https://github.com/your-username/servepass/network)
+
+[Report Bug](https://github.com/your-username/servepass/issues) • [Request Feature](https://github.com/your-username/servepass/issues) • [Contribute](https://github.com/your-username/servepass/pulls)
+
+---
+
+### 💝 Support the Developers
+
+**Join our community and stay updated:**
+
+[![Telegram](https://img.shields.io/badge/Join%20Telegram-@MostaQeell-blue?style=for-the-badge&logo=telegram)](https://t.me/MostaQeell)
+[![Website](https://img.shields.io/badge/Visit%20Website-mostaghell.com-orange?style=for-the-badge&logo=web)](https://mostaghell.com)
+
+---
+
+*Made with ❤️ by **Mostaghell Team** for the FiveM community*
+
+**© 2025 Mostaghell Team. All rights reserved.**
 
 </div>
