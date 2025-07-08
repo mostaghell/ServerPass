@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FiveM](https://img.shields.io/badge/FiveM-Compatible-blue.svg)](https://fivem.net/)
-[![Version](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/your-username/servepass/releases)
+[![Version](https://img.shields.io/badge/Version-2.0.0-green.svg)](https://github.com/mostaghell/ServerPass/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-@MostaQeell-blue.svg)](https://t.me/MostaQeell)
 [![Website](https://img.shields.io/badge/Website-mostaghell.com-orange.svg)](https://mostaghell.com)
 
@@ -59,7 +59,7 @@ A comprehensive FiveM resource that provides advanced server password protection
 
 ### Automatic Installation (Recommended)
 
-1. Download the latest release from [GitHub Releases](https://github.com/your-username/servepass/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/mostaghell/ServerPass/releases)
 2. Extract to your FiveM server root directory
 3. Run `install.bat` (Windows) or `install.sh` (Linux)
 4. Edit `resources/[local]/serve-pass/config.lua` with your settings
@@ -365,7 +365,7 @@ servepass:status
 We welcome contributions to ServePass! Here's how you can help:
 
 ### Reporting Issues
-1. Check existing [issues](https://github.com/your-username/servepass/issues) first
+1. Check existing [issues](https://github.com/mostaghell/ServerPass/issues) first
 2. Create a detailed bug report with:
    - FiveM server version
    - ServePass version
@@ -374,7 +374,7 @@ We welcome contributions to ServePass! Here's how you can help:
    - Expected vs actual behavior
 
 ### Feature Requests
-1. Open an [issue](https://github.com/your-username/servepass/issues/new) with the "enhancement" label
+1. Open an [issue](https://github.com/mostaghell/ServerPass/issues/new) with the "enhancement" label
 2. Describe the feature and its use case
 3. Explain why it would benefit the community
 
@@ -388,7 +388,7 @@ We welcome contributions to ServePass! Here's how you can help:
 ### Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/servepass.git
+git clone https://github.com/mostaghell/ServerPass.git
 cd servepass
 
 # Create a test server environment
@@ -428,7 +428,7 @@ cd servepass
 
 ### Getting Help
 - 📖 **Documentation**: Read this README thoroughly
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/your-username/servepass/issues)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mostaghell/ServerPass/issues)
 - 📱 **Telegram**: Join our official channel [@MostaQeell](https://t.me/MostaQeell)
 - 🌍 **Website**: Visit [mostaghell.com](https://mostaghell.com) for more projects
 - 💬 **Community**: [FiveM Forums](https://forum.cfx.re/)
@@ -491,10 +491,10 @@ SOFTWARE.
 
 **⭐ If you find ServePass useful, please give it a star on GitHub! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/servepass?style=social)](https://github.com/your-username/servepass/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/servepass?style=social)](https://github.com/your-username/servepass/network)
+[![GitHub stars](https://img.shields.io/github/stars/mostaghell/ServerPass?style=social)](https://github.com/mostaghell/ServerPass/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mostaghell/ServerPass?style=social)](https://github.com/mostaghell/ServerPass/network)
 
-[Report Bug](https://github.com/your-username/servepass/issues) • [Request Feature](https://github.com/your-username/servepass/issues) • [Contribute](https://github.com/your-username/servepass/pulls)
+[Report Bug](https://github.com/mostaghell/ServerPass/issues) • [Request Feature](https://github.com/mostaghell/ServerPass/issues) • [Contribute](https://github.com/mostaghell/ServerPass/pulls)
 
 ---
 
